@@ -1,0 +1,95 @@
+{
+	    "manifest_version": 3,
+    "name": "Hampter",
+    "description": "Causes the great cries of the holy hampter to ring out upon every action one could take",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "hampter-icon.png"
+    },
+    "developer":
+    {
+        "name": "AngryRoomba"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "browser_sounds":
+            {
+                "CLICK":
+                [
+                    "hampter.mp3"
+                ],
+                "FEATURE_SWITCH_OFF":
+                [
+                    "hampter.mp3"
+                ],
+                "FEATURE_SWITCH_ON":
+                [
+                    "hampter.mp3"
+                ],
+                "HOVER":
+                [
+                    "hampter.mp3"
+                ],
+                "HOVER_UP":
+                [
+                    "hampter.mp3"
+                ],
+                "IMPORTANT_CLICK":
+                [
+                    "hampter.mp3"
+                ],
+                "LEVEL_UPGRADE":
+                [
+                    "hampter.mp3"
+                ],
+                "LIMITER_OFF":
+                [
+                    "hampter.mp3"
+                ],
+                "LIMITER_ON":
+                [
+                    "hampter.mp3"
+                ],
+                "SWITCH_TOGGLE":
+                [
+                    "hampter.mp3"
+                ],
+                "TAB_CLOSE":
+                [
+                    "hampter.mp3"
+                ],
+                "TAB_INSERT":
+                [
+                    "hampter.mp3"
+                ],
+                "TAB_SLASH":
+                [
+                    "hampter.mp3"
+                ]
+            },
+            "keyboard_sounds":
+            {
+                "TYPING_BACKSPACE":
+                [
+                    "hampter.mp3"
+                ],
+                "TYPING_ENTER":
+                [
+                    "hampter.mp3"
+                ],
+                "TYPING_LETTER":
+                [
+                    "hampter.mp3"
+                ],
+                "TYPING_SPACE":
+                [
+                    "hampter.mp3"
+                ]
+            }
+        }
+    }
+}
